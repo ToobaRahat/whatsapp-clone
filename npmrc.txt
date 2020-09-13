@@ -1,0 +1,3 @@
+
+prefix=${APPDATA}\npm
+timeout=90000
